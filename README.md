@@ -46,7 +46,7 @@ books_scraper_project/
 ### Step 1: Clone the repository
 
 ```
-git clone https://github.com/your-username/books-scraper-project.git
+git clone https://github.com/Krishna-vamsee/books-scraper-project.git
 cd books-scraper-project
 ```
 
